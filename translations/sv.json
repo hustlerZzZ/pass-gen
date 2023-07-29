@@ -1,0 +1,16 @@
+{
+    "header_text": "Lösenordsgenerator",
+    "length_label": "Lösenordslängd:",
+    "character_used_label": "Använda tecken:",
+    "save_password": "Spara Lösenord",
+    "saved_password": "Sparade Lösenord",
+    "save_heading": "Spara ditt lösenord",
+    "password_label": "Ditt lösenord:",
+    "save_as_label": "Lösenordsnamn:",
+    "save_button": "Spara",
+    "cancel_button": "Avbryt",
+    "your_passwords": "Dina lösenord:",
+    "pass_name_table_header": "Lösenordsnamn",
+    "password_table_header": "Lösenord",
+    "clear_all_passwords": "Rensa alla lösenord"
+}

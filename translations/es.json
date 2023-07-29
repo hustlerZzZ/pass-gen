@@ -1,0 +1,16 @@
+{
+    "header_text": "Generador de Contraseñas",
+    "length_label": "Longitud de la contraseña:",
+    "character_used_label": "Caracteres utilizados:",
+    "save_password": "Guardar Contraseña",
+    "saved_password": "Contraseñas Guardadas",
+    "save_heading": "Guardar tu Contraseña",
+    "password_label": "Tu contraseña:",
+    "save_as_label": "Nombre de la Contraseña:",
+    "save_button": "Guardar",
+    "cancel_button": "Cancelar",
+    "your_passwords": "Tus contraseñas:",
+    "pass_name_table_header": "Nombre de la Contraseña",
+    "password_table_header": "Contraseña",
+    "clear_all_passwords": "Borrar todas las contraseñas"
+}

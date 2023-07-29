@@ -1,0 +1,16 @@
+{
+    "header_text": "Gerador de Senhas",
+    "length_label": "Tamanho da senha:",
+    "character_used_label": "Caracteres utilizados:",
+    "save_password": "Salvar Senha",
+    "saved_password": "Senhas Salvas",
+    "save_heading": "Salvar sua Senha",
+    "password_label": "Sua senha:",
+    "save_as_label": "Nome da Senha:",
+    "save_button": "Salvar",
+    "cancel_button": "Cancelar",
+    "your_passwords": "Suas senhas:",
+    "pass_name_table_header": "Nome da Senha",
+    "password_table_header": "Senha",
+    "clear_all_passwords": "Limpar todas as senhas"
+}

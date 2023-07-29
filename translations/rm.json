@@ -1,0 +1,16 @@
+{
+    "header_text": "Generator da clavischas",
+    "length_label": "Lunghezza da clavischas:",
+    "character_used_label": "Caracters utilisads:",
+    "save_password": "Guardar clavischas",
+    "saved_password": "Clavischas guardadas",
+    "save_heading": "Guardar la to clavischas",
+    "password_label": "Tia clavischas:",
+    "save_as_label": "Num da clavischas:",
+    "save_button": "Guardar",
+    "cancel_button": "Annullar",
+    "your_passwords": "Ti as clavischas:",
+    "pass_name_table_header": "Num da clavischas",
+    "password_table_header": "Clavischas",
+    "clear_all_passwords": "Lever tut las clavischas"
+}

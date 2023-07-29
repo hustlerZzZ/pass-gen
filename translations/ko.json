@@ -1,0 +1,16 @@
+{
+    "header_text": "비밀번호 생성기",
+    "length_label": "비밀번호 길이:",
+    "character_used_label": "사용된 문자:",
+    "save_password": "비밀번호 저장",
+    "saved_password": "저장된 비밀번호",
+    "save_heading": "비밀번호 저장하기",
+    "password_label": "비밀번호:",
+    "save_as_label": "비밀번호 이름:",
+    "save_button": "저장",
+    "cancel_button": "취소",
+    "your_passwords": "저장된 비밀번호:",
+    "pass_name_table_header": "비밀번호 이름",
+    "password_table_header": "비밀번호",
+    "clear_all_passwords": "모든 비밀번호 삭제"
+}

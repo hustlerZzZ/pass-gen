@@ -1,0 +1,16 @@
+{
+    "header_text": "パスワード生成器",
+    "length_label": "パスワードの長さ：",
+    "character_used_label": "使用する文字：",
+    "save_password": "パスワードを保存",
+    "saved_password": "保存されたパスワード",
+    "save_heading": "パスワードを保存する",
+    "password_label": "あなたのパスワード：",
+    "save_as_label": "パスワード名：",
+    "save_button": "保存する",
+    "cancel_button": "キャンセル",
+    "your_passwords": "あなたのパスワード：",
+    "pass_name_table_header": "パスワード名",
+    "password_table_header": "パスワード",
+    "clear_all_passwords": "すべてのパスワードを削除"
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Salasanan generaattori",
+    "length_label": "Salasanan pituus:",
+    "character_used_label": "Käytetyt merkit:",
+    "save_password": "Tallenna Salasana",
+    "saved_password": "Tallennetut Salasanat",
+    "save_heading": "Tallenna salasanasi",
+    "password_label": "Salasanasi:",
+    "save_as_label": "Salasanan nimi:",
+    "save_button": "Tallenna",
+    "cancel_button": "Peruuta",
+    "your_passwords": "Sinun salasanasi:",
+    "pass_name_table_header": "Salasanan nimi",
+    "password_table_header": "Salasana",
+    "clear_all_passwords": "Tyhjennä kaikki salasanat"
+}

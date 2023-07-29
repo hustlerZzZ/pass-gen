@@ -1,0 +1,16 @@
+{
+    "header_text": "Passordgenerator",
+    "length_label": "Passordlengde:",
+    "character_used_label": "Brukte tegn:",
+    "save_password": "Lagre passord",
+    "saved_password": "Lagrede passord",
+    "save_heading": "Lagre ditt passord",
+    "password_label": "Ditt passord:",
+    "save_as_label": "Passordnavn:",
+    "save_button": "Lagre",
+    "cancel_button": "Avbryt",
+    "your_passwords": "Dine passord:",
+    "pass_name_table_header": "Passordnavn",
+    "password_table_header": "Passord",
+    "clear_all_passwords": "Fjern alle passord"
+}

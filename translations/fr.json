@@ -1,0 +1,16 @@
+{
+    "header_text": "Générateur de mot de passe",
+    "length_label": "Longueur du mot de passe:",
+    "character_used_label": "Caractères utilisés:",
+    "save_password": "Enregistrer le mot de passe",
+    "saved_password": "Mots de passe enregistrés",
+    "save_heading": "Enregistrer votre mot de passe",
+    "password_label": "Votre mot de passe:",
+    "save_as_label": "Nom du mot de passe:",
+    "save_button": "Enregistrer",
+    "cancel_button": "Annuler",
+    "your_passwords": "Vos mots de passe:",
+    "pass_name_table_header": "Nom du mot de passe",
+    "password_table_header": "Mot de passe",
+    "clear_all_passwords": "Effacer tous les mots de passe"
+}

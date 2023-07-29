@@ -1,0 +1,16 @@
+{
+    "header_text": "Wachtwoordgenerator",
+    "length_label": "Wachtwoordlengte:",
+    "character_used_label": "Gebruikte tekens:",
+    "save_password": "Wachtwoord opslaan",
+    "saved_password": "Opgeslagen Wachtwoorden",
+    "save_heading": "Sla je wachtwoord op",
+    "password_label": "Je wachtwoord:",
+    "save_as_label": "Wachtwoordnaam:",
+    "save_button": "Opslaan",
+    "cancel_button": "Annuleren",
+    "your_passwords": "Je wachtwoorden:",
+    "pass_name_table_header": "Wachtwoordnaam",
+    "password_table_header": "Wachtwoord",
+    "clear_all_passwords": "Alle wachtwoorden wissen"
+}

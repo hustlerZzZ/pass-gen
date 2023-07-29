@@ -1,0 +1,16 @@
+{
+    "header_text": "Adgangskodegenerator",
+    "length_label": "Adgangskodelængde:",
+    "character_used_label": "Anvendte tegn:",
+    "save_password": "Gem adgangskode",
+    "saved_password": "Gemte adgangskoder",
+    "save_heading": "Gem din adgangskode",
+    "password_label": "Din adgangskode:",
+    "save_as_label": "Adgangskodenavn:",
+    "save_button": "Gem",
+    "cancel_button": "Afbryd",
+    "your_passwords": "Dine adgangskoder:",
+    "pass_name_table_header": "Adgangskodenavn",
+    "password_table_header": "Adgangskode",
+    "clear_all_passwords": "Ryd alle adgangskoder"
+}
